@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world! Rey's Here 👋
 
 <!--
 **rey-pository/rey-pository** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m **Junior Software Engineer** and **open to work!**
+- 🌱 I’m currently deepening my knowledge in  **Golang💙** for building scalable backend services and learning more about efficient system architecture.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: While being a full-time student, **I led a Faculty Student Executive Board (BEM) as President and have already published 4 e-books with IPR and a Scopus-indexed international journal.***
+- 📫 How to reach me: 
+📧 reynalddkk@gmail.com 
+🔗 linkedin.com/in/reynalddian.
+
+![golang](https://miro.medium.com/v2/resize:fit:1000/1*_wxwNuxszA6vwQIUMbF-fw.gif)
