@@ -1,4 +1,4 @@
-### Hello world! I'm Rey, a Software Engineer from Indonesia. 👋
+### Hello world! It's Rey, a Software Engineer from Indonesia. 👋
 
 I'm a **Junior Software Engineer** with full-stack development experience, a deep passion for learning, and a knack for storytelling. While completing my studies, I led a Faculty Student Executive Board (BEM) as President and managed to publish **4 e-books and a Scopus-indexed international journal**.
 
