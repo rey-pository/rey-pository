@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Welcome to Rey's Code Universe
+# 🚀 Welcome to Rey-Pository
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00ADD8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Reynald+Dian!;Backend+Engineer+%7C+Tech+Writer;Building+Scalable+Systems;Open+to+New+Opportunities!" alt="Typing SVG" />
 
