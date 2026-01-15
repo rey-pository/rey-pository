@@ -69,8 +69,25 @@ const rey = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rey-pository&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rey-pository&theme=radical&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rey-pository&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rey-pository&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8"/>
+
+</div>
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rey-pository&theme=radical&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"/>
+  
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rey-pository&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff"/>
+
+</div>
+
+<div align="center">
+  
+  ![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rey-pository&theme=radical)
+
 </div>
 
 ---
