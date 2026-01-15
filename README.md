@@ -2,7 +2,7 @@
 
 # ahh u found me X_X
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,100:764ba2&height=200&section=header&text=rey-pository&fontSize=60&fontAlign=50&fontAlignY=40&desc=Backend%20Engineer%20%7C%20Tech%20Writer&descSize=20&descAlign=50&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,100:764ba2&height=250&section=header&text=rey-pository&fontSize=70&fontAlign=50&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Tech%20Writer&descSize=22&descAlign=50&descAlignY=55&fontColor=ffffff" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;Technical+Writer;System+Architect" alt="Typing SVG" />
 
