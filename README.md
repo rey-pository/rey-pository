@@ -183,18 +183,12 @@ For professional inquiries, collaboration opportunities, or technical discussion
 
 ---
 
-<br>
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
-<sub>© 2025 Reynald Dian Kristiawan • All rights reserved.</sub>
+<sub>© 2025 Reynald Dian Kristiawan. All rights reserved.</sub>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100%">
 
 </div>
