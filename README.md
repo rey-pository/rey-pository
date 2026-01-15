@@ -187,6 +187,8 @@ For professional inquiries, collaboration opportunities, or technical discussion
 
 <sub>© 2025 Reynald Dian Kristiawan. All rights reserved.</sub>
 
-</div>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100%">
+
+</div>
