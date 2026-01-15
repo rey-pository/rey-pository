@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Welcome to Rey-Pository
+# 🚀 Welcome to rey-pository
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00ADD8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Reynald+Dian!;Backend+Engineer+%7C+Tech+Writer;Building+Scalable+Systems;Open+to+New+Opportunities!" alt="Typing SVG" />
 
@@ -34,7 +34,7 @@ func main() {
             "Published E-books":        4,
             "Scopus Journals":          2,
             "Years Experience":         1,
-            "GPA":                      393, 
+            "GPA":                      393, // 3.93 * 100
             "Graduation Time (years)":  3,
         },
         Status: "🟢 Open to Work & Collaboration",
@@ -117,9 +117,9 @@ func main() {
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rey-pository&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rey-pository&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rey-pository&theme=tokyonight&hide_border=true)
+<br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rey-pository&theme=tokyo-night&hide_border=true&area=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rey-pository&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -247,10 +247,6 @@ Interactive chatbot for public housing service automation
 ![System Architecture](https://img.shields.io/badge/-System_Architecture-FF6C37?style=flat-square)
 ![API Development](https://img.shields.io/badge/-API_Development-3776AB?style=flat-square)
 ![Tech Writing](https://img.shields.io/badge/-Technical_Writing-777BB4?style=flat-square)
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 
