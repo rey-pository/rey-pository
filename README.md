@@ -84,13 +84,15 @@ const rey = {
 
 </div>
 
+---
+
+## 📈 Contribution Graph
+
 <div align="center">
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rey-pository/rey-pository/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rey-pository/rey-pository/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rey-pository/rey-pository/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://ghchart.rshah.org/00d9ff/rey-pository" alt="GitHub Contribution Chart" width="100%"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rey-pository&theme=radical" width="100%"/>
 
 </div>
 
