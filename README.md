@@ -34,7 +34,7 @@ func main() {
             "Published E-books":        4,
             "Scopus Journals":          2,
             "Years Experience":         1,
-            "GPA":                      393, // 3.93 * 100
+            "GPA":                      393, 
             "Graduation Time (years)":  3,
         },
         Status: "🟢 Open to Work & Collaboration",
@@ -117,9 +117,9 @@ func main() {
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rey-pository&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rey-pository&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rey-pository&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rey-pository&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rey-pository&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rey-pository&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -250,7 +250,7 @@ Interactive chatbot for public housing service automation
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 
