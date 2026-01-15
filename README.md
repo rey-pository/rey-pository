@@ -183,6 +183,8 @@ For professional inquiries, collaboration opportunities, or technical discussion
 
 ---
 
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100">
+
 <sub>© 2025 Reynald Dian Kristiawan. All rights reserved.</sub>
 
 </div>
