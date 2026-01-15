@@ -2,7 +2,7 @@
 
 # ahh u found me X_X
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=rey-pository&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,100:764ba2&height=200&section=header&text=rey-pository&fontSize=60&fontAlign=50&fontAlignY=40&desc=Backend%20Engineer%20%7C%20Tech%20Writer&descSize=20&descAlign=50&descAlignY=60" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;Technical+Writer;System+Architect" alt="Typing SVG" />
 
@@ -18,7 +18,8 @@
 
 ```javascript
 const profile = {
-    name: "Reynalddian Krisna Kusuma",
+    name: "Reynald Dian Kristiawan",
+    nickname: "Reynald D.K",
     location: "Semarang, Central Java, Indonesia",
     role: "Software Engineer",
     specialization: ["Backend Development", "System Design", "Technical Writing"],
@@ -182,7 +183,7 @@ For professional inquiries, collaboration opportunities, or technical discussion
 
 ---
 
-<sub>© 2025 Reynalddian Krisna Kusuma. All rights reserved.</sub>
+<sub>© 2025 Reynald Dian Kristiawan. All rights reserved.</sub>
 
 </div>
 
