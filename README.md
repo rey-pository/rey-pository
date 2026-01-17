@@ -24,8 +24,9 @@ right now learning about distributed systems and how to not break production (st
 ## projects i've done
 
 **supply chain thing** → golang apis for government stuff  
-**hyundai backend** → laravel/filament for their indonesia operations  
-**ai chatbot** → whatsapp bot for public services  
+**hyundai company profile** → laravel/filament for their indonesia operations  
+**sobat gadai managerial website** → laravel/filament for every their pawn product operations
+**krs kemenpupr website integrate with ai chatbot api by mekari** → for public services  
 **blockchain research** → optimized smart contracts, got it published
 
 also wrote some e-books and papers about ai and blockchain. got 2 scopus-indexed ones somehow.
